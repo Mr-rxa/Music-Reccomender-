@@ -1,5 +1,17 @@
 import streamlit as st
 import random
+st.markdown(
+    """
+    <style>
+    .stApp {
+        background: url("https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXJicGZ2NzVraW9vODg5cGJib3o4M3M3amRleWJicnJyZmdxYjQxciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/89sR0iNawTWVomKow6/giphy.gif") no-repeat center center fixed; 
+        background-size: cover;
+        height: 100vh;  /* Ensure the background covers the full height */
+    }
+    </style>
+    """,
+    unsafe_allow_html=True
+)
 def get_music_recommendation(mood):
     mood_music = {
         "happy": [
