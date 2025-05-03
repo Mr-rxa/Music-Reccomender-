@@ -4,7 +4,7 @@ st.markdown(
     """
     <style>
     .stApp {
-        background: url("https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXJicGZ2NzVraW9vODg5cGJib3o4M3M3amRleWJicnJyZmdxYjQxciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/89sR0iNawTWVomKow6/giphy.gif") no-repeat center center fixed; 
+        background: url("https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDQxenZwNGNhZGsyOW13MGE3aXJxanFjaDg4NWFyM2ZyaDhsdXBmNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JiSLuolECcoF1cqc4K/giphy.gif") no-repeat center center fixed; 
         background-size: cover;
         height: 100vh;  /* Ensure the background covers the full height */
     }
